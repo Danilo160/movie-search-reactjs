@@ -15,7 +15,7 @@ import notsearch from './images/notsearch.png'
 //Variáreis constantes para acessar a API
 const configs = {
     apiurl: 'https://api.themoviedb.org/3',
-    apikey: '[suaapikey]'
+    apikey: '[suaapikey]' //Insira sua chave da API aqui somente entre aspas, sem colchetes
 };
 
 const { apiurl, apikey } = configs;
